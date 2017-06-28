@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ee1e3b52-ba1c-4855-99a0-48305035d468" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/SEnPA/SEnPA.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SEnPA.disco" MetadataType="Disco" ID="3d237c28-e748-47b6-9adb-cefee608fe9d" SourceId="1" SourceUrl="http://localhost/SEnPA/SEnPA.svc?disco" />
+    <MetadataFile FileName="SEnPA.xsd" MetadataType="Schema" ID="498ef773-ca02-48e2-b67a-40c179045ad4" SourceId="1" SourceUrl="http://localhost/SEnPA/SEnPA.svc?xsd=xsd1" />
+    <MetadataFile FileName="SEnPA1.xsd" MetadataType="Schema" ID="b3806cf4-7f83-4960-a0fb-5d3c9e523d26" SourceId="1" SourceUrl="http://localhost/SEnPA/SEnPA.svc?xsd=xsd0" />
+    <MetadataFile FileName="SEnPA.wsdl" MetadataType="Wsdl" ID="b3b63832-0b6b-4077-a604-9a02100080eb" SourceId="1" SourceUrl="http://localhost/SEnPA/SEnPA.svc?wsdl" />
+    <MetadataFile FileName="SEnPA2.xsd" MetadataType="Schema" ID="9e45525b-61d0-4f7c-b212-99d37ffebb09" SourceId="1" SourceUrl="http://localhost/SEnPA/SEnPA.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

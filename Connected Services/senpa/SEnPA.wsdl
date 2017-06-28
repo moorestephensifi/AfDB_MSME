@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="SEnPA" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/SEnPA/SEnPA.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/SEnPA/SEnPA.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/SEnPA/SEnPA.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/SEnPA" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ISEnPA_SendBasicEmail_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendBasicEmail" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SendBasicEmail_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendBasicEmailResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SendSMS_InputMessage">
+    <wsdl:part name="parameters" element="tns:SendSMS" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SendSMS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SendSMSResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetEmails_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmails" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetEmails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetSMSs_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSMSs" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetSMSs_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSMSsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetEmailMessageDesigns_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmailMessageDesigns" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetEmailMessageDesigns_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmailMessageDesignsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetEmailMessageDesign_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmailMessageDesign" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetEmailMessageDesign_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmailMessageDesignResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SubmitWorkFlowDocument_InputMessage">
+    <wsdl:part name="parameters" element="tns:SubmitWorkFlowDocument" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SubmitWorkFlowDocument_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SubmitWorkFlowDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetNextWorkFlowStage_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextWorkFlowStage" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetNextWorkFlowStage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetNextWorkFlowStageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetCurrentWorkFlowStage_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentWorkFlowStage" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetCurrentWorkFlowStage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCurrentWorkFlowStageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_UpdateWorkFlowStage_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateWorkFlowStage" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_UpdateWorkFlowStage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateWorkFlowStageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_AssignWorkFlowStage_InputMessage">
+    <wsdl:part name="parameters" element="tns:AssignWorkFlowStage" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_AssignWorkFlowStage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AssignWorkFlowStageResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetAssigningUserList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssigningUserList" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetAssigningUserList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAssigningUserListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocumentsRequiredList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocumentsRequiredList" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocumentsRequiredList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocumentsRequiredListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_CheckCurrentStageDocumentRequirements_InputMessage">
+    <wsdl:part name="parameters" element="tns:CheckCurrentStageDocumentRequirements" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_CheckCurrentStageDocumentRequirements_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CheckCurrentStageDocumentRequirementsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_UploadWorkFlowDocument_InputMessage">
+    <wsdl:part name="parameters" element="tns:UploadWorkFlowDocument" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_UploadWorkFlowDocument_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UploadWorkFlowDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetWorkFlowDocuments_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetWorkFlowDocuments" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetWorkFlowDocuments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetWorkFlowDocumentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_UploadDocument_InputMessage">
+    <wsdl:part name="parameters" element="tns:UploadDocument" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_UploadDocument_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UploadDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocuments_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocuments" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocuments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocumentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolderDocuments_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolderDocuments" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolderDocuments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolderDocumentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocument_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocument" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocument_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolders_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolders" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolders_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetFoldersResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_CreateFolder_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateFolder" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_CreateFolder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateFolderResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_RenameFolder_InputMessage">
+    <wsdl:part name="parameters" element="tns:RenameFolder" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_RenameFolder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RenameFolderResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocumentTypes_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocumentTypes" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetDocumentTypes_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDocumentTypesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SearchDocuments_InputMessage">
+    <wsdl:part name="parameters" element="tns:SearchDocuments" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SearchDocuments_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchDocumentsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolderName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolderName" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolderName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolderNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolderPath_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolderPath" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetFolderPath_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetFolderPathResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetParentFolderId_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetParentFolderId" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetParentFolderId_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetParentFolderIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SaveRegistrationRequest_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveRegistrationRequest" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_SaveRegistrationRequest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveRegistrationRequestResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetPickList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPickList" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetPickList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPickListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetUserPickList_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserPickList" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetUserPickList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserPickListResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetRegistrationRequests_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistrationRequests" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetRegistrationRequests_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistrationRequestsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetRegistrationRequest_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistrationRequest" />
+  </wsdl:message>
+  <wsdl:message name="ISEnPA_GetRegistrationRequest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistrationRequestResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ISEnPA">
+    <wsdl:operation name="SendBasicEmail">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/SendBasicEmail" message="tns:ISEnPA_SendBasicEmail_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/SendBasicEmailResponse" message="tns:ISEnPA_SendBasicEmail_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SendSMS">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/SendSMS" message="tns:ISEnPA_SendSMS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/SendSMSResponse" message="tns:ISEnPA_SendSMS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmails">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetEmails" message="tns:ISEnPA_GetEmails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetEmailsResponse" message="tns:ISEnPA_GetEmails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSMSs">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetSMSs" message="tns:ISEnPA_GetSMSs_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetSMSsResponse" message="tns:ISEnPA_GetSMSs_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmailMessageDesigns">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetEmailMessageDesigns" message="tns:ISEnPA_GetEmailMessageDesigns_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetEmailMessageDesignsResponse" message="tns:ISEnPA_GetEmailMessageDesigns_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmailMessageDesign">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetEmailMessageDesign" message="tns:ISEnPA_GetEmailMessageDesign_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetEmailMessageDesignResponse" message="tns:ISEnPA_GetEmailMessageDesign_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SubmitWorkFlowDocument">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/SubmitWorkFlowDocument" message="tns:ISEnPA_SubmitWorkFlowDocument_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/SubmitWorkFlowDocumentResponse" message="tns:ISEnPA_SubmitWorkFlowDocument_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetNextWorkFlowStage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetNextWorkFlowStage" message="tns:ISEnPA_GetNextWorkFlowStage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetNextWorkFlowStageResponse" message="tns:ISEnPA_GetNextWorkFlowStage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentWorkFlowStage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetCurrentWorkFlowStage" message="tns:ISEnPA_GetCurrentWorkFlowStage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetCurrentWorkFlowStageResponse" message="tns:ISEnPA_GetCurrentWorkFlowStage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateWorkFlowStage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/UpdateWorkFlowStage" message="tns:ISEnPA_UpdateWorkFlowStage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/UpdateWorkFlowStageResponse" message="tns:ISEnPA_UpdateWorkFlowStage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AssignWorkFlowStage">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/AssignWorkFlowStage" message="tns:ISEnPA_AssignWorkFlowStage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/AssignWorkFlowStageResponse" message="tns:ISEnPA_AssignWorkFlowStage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAssigningUserList">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetAssigningUserList" message="tns:ISEnPA_GetAssigningUserList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetAssigningUserListResponse" message="tns:ISEnPA_GetAssigningUserList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentsRequiredList">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetDocumentsRequiredList" message="tns:ISEnPA_GetDocumentsRequiredList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetDocumentsRequiredListResponse" message="tns:ISEnPA_GetDocumentsRequiredList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CheckCurrentStageDocumentRequirements">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/CheckCurrentStageDocumentRequirements" message="tns:ISEnPA_CheckCurrentStageDocumentRequirements_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/CheckCurrentStageDocumentRequirementsResponse" message="tns:ISEnPA_CheckCurrentStageDocumentRequirements_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadWorkFlowDocument">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/UploadWorkFlowDocument" message="tns:ISEnPA_UploadWorkFlowDocument_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/UploadWorkFlowDocumentResponse" message="tns:ISEnPA_UploadWorkFlowDocument_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetWorkFlowDocuments">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetWorkFlowDocuments" message="tns:ISEnPA_GetWorkFlowDocuments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetWorkFlowDocumentsResponse" message="tns:ISEnPA_GetWorkFlowDocuments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/UploadDocument" message="tns:ISEnPA_UploadDocument_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/UploadDocumentResponse" message="tns:ISEnPA_UploadDocument_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocuments">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetDocuments" message="tns:ISEnPA_GetDocuments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetDocumentsResponse" message="tns:ISEnPA_GetDocuments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetFolderDocuments">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetFolderDocuments" message="tns:ISEnPA_GetFolderDocuments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetFolderDocumentsResponse" message="tns:ISEnPA_GetFolderDocuments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocument">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetDocument" message="tns:ISEnPA_GetDocument_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetDocumentResponse" message="tns:ISEnPA_GetDocument_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetFolders">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetFolders" message="tns:ISEnPA_GetFolders_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetFoldersResponse" message="tns:ISEnPA_GetFolders_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateFolder">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/CreateFolder" message="tns:ISEnPA_CreateFolder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/CreateFolderResponse" message="tns:ISEnPA_CreateFolder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RenameFolder">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/RenameFolder" message="tns:ISEnPA_RenameFolder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/RenameFolderResponse" message="tns:ISEnPA_RenameFolder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentTypes">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetDocumentTypes" message="tns:ISEnPA_GetDocumentTypes_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetDocumentTypesResponse" message="tns:ISEnPA_GetDocumentTypes_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchDocuments">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/SearchDocuments" message="tns:ISEnPA_SearchDocuments_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/SearchDocumentsResponse" message="tns:ISEnPA_SearchDocuments_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetFolderName">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetFolderName" message="tns:ISEnPA_GetFolderName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetFolderNameResponse" message="tns:ISEnPA_GetFolderName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetFolderPath">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetFolderPath" message="tns:ISEnPA_GetFolderPath_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetFolderPathResponse" message="tns:ISEnPA_GetFolderPath_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetParentFolderId">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetParentFolderId" message="tns:ISEnPA_GetParentFolderId_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetParentFolderIdResponse" message="tns:ISEnPA_GetParentFolderId_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveRegistrationRequest">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/SaveRegistrationRequest" message="tns:ISEnPA_SaveRegistrationRequest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/SaveRegistrationRequestResponse" message="tns:ISEnPA_SaveRegistrationRequest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPickList">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetPickList" message="tns:ISEnPA_GetPickList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetPickListResponse" message="tns:ISEnPA_GetPickList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUserPickList">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetUserPickList" message="tns:ISEnPA_GetUserPickList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetUserPickListResponse" message="tns:ISEnPA_GetUserPickList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistrationRequests">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetRegistrationRequests" message="tns:ISEnPA_GetRegistrationRequests_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetRegistrationRequestsResponse" message="tns:ISEnPA_GetRegistrationRequests_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistrationRequest">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISEnPA/GetRegistrationRequest" message="tns:ISEnPA_GetRegistrationRequest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISEnPA/GetRegistrationRequestResponse" message="tns:ISEnPA_GetRegistrationRequest_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ISEnPA" type="tns:ISEnPA">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SendBasicEmail">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/SendBasicEmail" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SendSMS">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/SendSMS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmails">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetEmails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSMSs">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetSMSs" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmailMessageDesigns">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetEmailMessageDesigns" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmailMessageDesign">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetEmailMessageDesign" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SubmitWorkFlowDocument">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/SubmitWorkFlowDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetNextWorkFlowStage">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetNextWorkFlowStage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCurrentWorkFlowStage">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetCurrentWorkFlowStage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateWorkFlowStage">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/UpdateWorkFlowStage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AssignWorkFlowStage">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/AssignWorkFlowStage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAssigningUserList">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetAssigningUserList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentsRequiredList">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetDocumentsRequiredList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CheckCurrentStageDocumentRequirements">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/CheckCurrentStageDocumentRequirements" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadWorkFlowDocument">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/UploadWorkFlowDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetWorkFlowDocuments">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetWorkFlowDocuments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/UploadDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocuments">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetDocuments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFolderDocuments">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetFolderDocuments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocument">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFolders">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetFolders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateFolder">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/CreateFolder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RenameFolder">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/RenameFolder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDocumentTypes">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetDocumentTypes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchDocuments">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/SearchDocuments" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFolderName">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetFolderName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFolderPath">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetFolderPath" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetParentFolderId">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetParentFolderId" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveRegistrationRequest">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/SaveRegistrationRequest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPickList">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetPickList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUserPickList">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetUserPickList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistrationRequests">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetRegistrationRequests" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistrationRequest">
+      <soap:operation soapAction="http://tempuri.org/ISEnPA/GetRegistrationRequest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SEnPA">
+    <wsdl:port name="BasicHttpBinding_ISEnPA" binding="tns:BasicHttpBinding_ISEnPA">
+      <soap:address location="http://localhost/SEnPA/SEnPA.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
