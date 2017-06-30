@@ -52,5 +52,26 @@ namespace SEnPA
         {
 
         }
+
+        private void labelControl9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelControl12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void simpleButton7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelControl13_Click(object sender, EventArgs e)
+        {
+
+
+        }
     }
 }

@@ -28,13 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
-            DevExpress.XtraEditors.TileItemElement tileItemElement187 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement205 = new DevExpress.XtraEditors.TileItemElement();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Registration));
-            DevExpress.XtraEditors.TileItemElement tileItemElement188 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement189 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement190 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement191 = new DevExpress.XtraEditors.TileItemElement();
-            DevExpress.XtraEditors.TileItemElement tileItemElement192 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement206 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement207 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement208 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement209 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement210 = new DevExpress.XtraEditors.TileItemElement();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
             this.tileControlRegistration = new DevExpress.XtraEditors.TileControl();
             this.tileGroupRegistration = new DevExpress.XtraEditors.TileGroup();
@@ -155,10 +155,10 @@
             // 
             // tileItemDocumentation
             // 
-            tileItemElement187.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement187.Image")));
-            tileItemElement187.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
-            tileItemElement187.Text = "Documentation";
-            this.tileItemDocumentation.Elements.Add(tileItemElement187);
+            tileItemElement205.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement205.Image")));
+            tileItemElement205.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
+            tileItemElement205.Text = "Documentation";
+            this.tileItemDocumentation.Elements.Add(tileItemElement205);
             this.tileItemDocumentation.Id = 0;
             this.tileItemDocumentation.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItemDocumentation.Name = "tileItemDocumentation";
@@ -166,50 +166,50 @@
             // 
             // tileItemSiteReview
             // 
-            tileItemElement188.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement188.Image")));
-            tileItemElement188.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
-            tileItemElement188.Text = "Site Review";
-            this.tileItemSiteReview.Elements.Add(tileItemElement188);
+            tileItemElement206.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement206.Image")));
+            tileItemElement206.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
+            tileItemElement206.Text = "Site Review";
+            this.tileItemSiteReview.Elements.Add(tileItemElement206);
             this.tileItemSiteReview.Id = 1;
             this.tileItemSiteReview.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItemSiteReview.Name = "tileItemSiteReview";
             // 
             // tileItemAgencyReview
             // 
-            tileItemElement189.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement189.Image")));
-            tileItemElement189.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
-            tileItemElement189.Text = "Agency Review";
-            this.tileItemAgencyReview.Elements.Add(tileItemElement189);
+            tileItemElement207.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement207.Image")));
+            tileItemElement207.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
+            tileItemElement207.Text = "Agency Review";
+            this.tileItemAgencyReview.Elements.Add(tileItemElement207);
             this.tileItemAgencyReview.Id = 2;
             this.tileItemAgencyReview.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItemAgencyReview.Name = "tileItemAgencyReview";
             // 
             // tileItemAssets
             // 
-            tileItemElement190.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement190.Image")));
-            tileItemElement190.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
-            tileItemElement190.Text = "Assets";
-            this.tileItemAssets.Elements.Add(tileItemElement190);
+            tileItemElement208.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement208.Image")));
+            tileItemElement208.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
+            tileItemElement208.Text = "Assets";
+            this.tileItemAssets.Elements.Add(tileItemElement208);
             this.tileItemAssets.Id = 4;
             this.tileItemAssets.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItemAssets.Name = "tileItemAssets";
             // 
             // tileItemPremises
             // 
-            tileItemElement191.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement191.Image")));
-            tileItemElement191.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
-            tileItemElement191.Text = "Premises";
-            this.tileItemPremises.Elements.Add(tileItemElement191);
+            tileItemElement209.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement209.Image")));
+            tileItemElement209.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
+            tileItemElement209.Text = "Premises";
+            this.tileItemPremises.Elements.Add(tileItemElement209);
             this.tileItemPremises.Id = 5;
             this.tileItemPremises.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItemPremises.Name = "tileItemPremises";
             // 
             // tileItemComments
             // 
-            tileItemElement192.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement192.Image")));
-            tileItemElement192.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
-            tileItemElement192.Text = "Comments & Notes";
-            this.tileItemComments.Elements.Add(tileItemElement192);
+            tileItemElement210.Image = ((System.Drawing.Image)(resources.GetObject("tileItemElement210.Image")));
+            tileItemElement210.ImageAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleCenter;
+            tileItemElement210.Text = "Comments & Notes";
+            this.tileItemComments.Elements.Add(tileItemElement210);
             this.tileItemComments.Id = 3;
             this.tileItemComments.ItemSize = DevExpress.XtraEditors.TileItemSize.Medium;
             this.tileItemComments.Name = "tileItemComments";
