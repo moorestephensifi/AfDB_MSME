@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DevExpress.XtraLayout.Localization;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SEnPA
+namespace SBFA
 {
     static class Program
     {
@@ -16,7 +17,8 @@ namespace SEnPA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SignIn());
+           // LayoutLocalizer.Active = new LayoutLocalizer();
+            Application.Run(new Login());
         }
     }
 }

@@ -1,0 +1,1106 @@
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\SBFA.exe.config
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\SBFA.exe.manifest
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\SBFA.application
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\SBFA.exe
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\SBFA.pdb
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.CodeParser.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.AddUser.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.Folder.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.Login.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.ManageStages.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.SBFAMain.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.exe.licenses
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.exe.manifest
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.application
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.exe
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.pdb
+I:\MS\Seychelles\Development\SBFA\Desktop\Inherit\SBFA\SBFA\obj\Debug\SBFA.csprojResolveAssemblyReference.cache
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.config
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.manifest
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.application
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.pdb
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.CodeParser.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.AddUser.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Folder.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Login.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStages.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SBFAMain.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.licenses
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.manifest
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.application
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.pdb
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.config
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.manifest
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.application
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.pdb
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csprojResolveAssemblyReference.cache
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.AddUser.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Folder.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Login.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStages.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SBFAMain.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.licenses
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.manifest
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.application
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.pdb
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.DeclineDisbursement.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.DeclineDisbursement.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ChargeRules.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStageAutoDocuments.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ValidationRules.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ChargeRules.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStageAutoDocuments.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ValidationRules.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.LoanAssesment.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.LoanAssesment.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UserAccountSettings.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveRepayment.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.WarningLetter.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveRepayment.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UserAccountSettings.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.WarningLetter.resources
+I:\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csprojResolveAssemblyReference.cache
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.config
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.pdb
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.AddUser.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ChargeRules.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.DeclineDisbursement.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Folder.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.LoanAssesment.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Login.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStageAutoDocuments.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStages.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveRepayment.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SBFAMain.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UserAccountSettings.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ValidationRules.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.WarningLetter.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.licenses
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.pdb
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Guarantor.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveOldRepayment.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.config
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.manifest
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.application
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.pdb
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csprojResolveAssemblyReference.cache
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.AddUser.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ChargeRules.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.DeclineDisbursement.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Folder.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Guarantor.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.LoanAssesment.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Login.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStageAutoDocuments.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStages.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveOldRepayment.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveRepayment.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SBFAMain.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UserAccountSettings.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ValidationRules.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.WarningLetter.resources
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.licenses
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.manifest
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.application
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe
+C:\Users\Tawanda\Desktop\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.pdb
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UploadTemplates.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SendEmail.resources
+C:\Attack\MS\Seychelles\Development\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SendSMS.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Guarantor.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveOldRepayment.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SendEmail.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SendSMS.resources
+C:\Work\Moore Stephens\Seychelles\Development\MIS_120720171103\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UploadTemplates.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe.config
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.exe
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\SBFA.pdb
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraSpreadsheet.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraSpreadsheet.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csprojResolveAssemblyReference.cache
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.AddUser.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ChargeRules.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.DeclineDisbursement.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Folder.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Guarantor.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.LoanAssesment.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Login.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStageAutoDocuments.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStages.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveOldRepayment.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ReceiveRepayment.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SBFAMain.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SendEmail.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.SendSMS.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UploadTemplates.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.UserAccountSettings.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.ValidationRules.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.WarningLetter.resources
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe.licenses
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.exe
+C:\Users\Tawanda\Desktop\MIS201711281102\SBFA\Desktop\Actual\SBFA\SBFA\obj\Debug\SBFA.pdb
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\bin\Debug\SBFA.exe.config
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.exe
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.pdb
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.csprojResolveAssemblyReference.cache
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.AddUser.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ChargeRules.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.DeclineDisbursement.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.Folder.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.Guarantor.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.LoanAssesment.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.Login.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ManagerUserProperties.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ManageStageAutoDocuments.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ManageStages.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ManageStakeholder.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ManageUserGroupProperties.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ProcessInvoice.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.Properties.Resources.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ReceiveOldRepayment.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ReceiveRepayment.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.SBFAMain.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.SendEmail.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.SendSMS.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.UploadTemplates.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.UserAccountSettings.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.ValidationRules.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.WarningLetter.resources
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.csproj.GenerateResource.Cache
+F:\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.exe.licenses
+C:\Users\USER\Documents\Git\SBFA Desktop App\SBFA Desktop App\SBFA\bin\Debug\SBFA.exe.config
+C:\Users\USER\Documents\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.exe
+C:\Users\USER\Documents\Git\SBFA Desktop App\SBFA Desktop App\SBFA\obj\Debug\SBFA.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="42fe0151-c6c1-4086-88df-901005f8ac4e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/SBFA/SBFA.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SBFA6.xsd" MetadataType="Schema" ID="6dca3c07-5c2b-48bf-900c-952da72b0947" SourceId="1" SourceUrl="http://localhost/SBFA/SBFA.svc?xsd=xsd0" />
+    <MetadataFile FileName="SBFA7.xsd" MetadataType="Schema" ID="48ebe452-2239-44fc-bf33-05379145599b" SourceId="1" SourceUrl="http://localhost/SBFA/SBFA.svc?xsd=xsd1" />
+    <MetadataFile FileName="SBFA2.disco" MetadataType="Disco" ID="838a0752-00f9-4153-8da1-8dd1e0b4b090" SourceId="1" SourceUrl="http://localhost/SBFA/SBFA.svc?disco" />
+    <MetadataFile FileName="SBFA2.wsdl" MetadataType="Wsdl" ID="05f90ae0-2038-425e-99df-b45033d3acad" SourceId="1" SourceUrl="http://localhost/SBFA/SBFA.svc?wsdl" />
+    <MetadataFile FileName="SBFA8.xsd" MetadataType="Schema" ID="83a78de7-0028-478a-bc05-3eccc4acf048" SourceId="1" SourceUrl="http://localhost/SBFA/SBFA.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

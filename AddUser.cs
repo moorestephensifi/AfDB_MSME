@@ -11,12 +11,13 @@ using DevExpress.XtraEditors;
 using System.ServiceModel.Channels;
 using System.ServiceModel;
 using System.Net;
+using DevExpress.XtraBars.Docking2010.Views.WindowsUI;
 
-namespace SEnPA
+namespace SBFA
 {
     public partial class AddUser : DevExpress.XtraEditors.XtraForm
     {
-        senpaSecurity.SEnPASecurityClient security = new senpaSecurity.SEnPASecurityClient();
+       
         public AddUser()
         {
             InitializeComponent();
@@ -34,22 +35,26 @@ namespace SEnPA
 
         private void AddUser_Load(object sender, EventArgs e)
         {
-            txtPassword.ReadOnly = true;
-            txtConfirm.ReadOnly = true;
-            txtUsername.ReadOnly = true;
-            var httpRequestProperty = new HttpRequestMessageProperty();
-            httpRequestProperty.Headers[HttpRequestHeader.Authorization] = Globals.authorizationKey;
-
-            var context = new OperationContext(security.InnerChannel);
-            using (new OperationContextScope(context))
+            try
             {
-                context.OutgoingMessageProperties[HttpRequestMessageProperty.Name] = httpRequestProperty;
-                //get application user group roles
-                senpaSecurity.ApplicationRoleGroups[] rolesGroup = security.GetApplicationGroupRoles("default");
-                foreach (senpaSecurity.ApplicationRoleGroups role in rolesGroup)
+                txtPassword.ReadOnly = true;
+                txtConfirm.ReadOnly = true;
+                txtUsername.ReadOnly = true;
+                SBFAApi agent = new SBFAApi();
+                using (new OperationContextScope(agent.context))
                 {
-                    cmbRoleGroups.Items.Add(role.RoleGroup);
+                    //get application user group roles
+                    sbfa.ApplicationRoleGroups[] rolesGroup = agent.operation.GetApplicationGroupRoles("default");
+                    foreach (sbfa.ApplicationRoleGroups role in rolesGroup)
+                    {
+                        cmbRoleGroups.Items.Add(role.Name);
+                    }
+                    Globals.SetPickList(cmbStakeholder, "stahol");
                 }
+            }
+            catch
+            {
+                ShowErrorMessage("There has been an error initializing user");
             }
         }
 
@@ -78,33 +83,93 @@ namespace SEnPA
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            var httpRequestProperty = new HttpRequestMessageProperty();
-            httpRequestProperty.Headers[HttpRequestHeader.Authorization] = Globals.authorizationKey;
-
-            var context = new OperationContext(security.InnerChannel);
-            using (new OperationContextScope(context))
+            if(txtUsername.Text=="" || txtName.Text=="")
             {
-                context.OutgoingMessageProperties[HttpRequestMessageProperty.Name] = httpRequestProperty;
-                string password = "";
-                if (chkDefaultPassword.Checked)
-                    password = security.DefaultPassword();
-                else
-                    password = txtPassword.Text;
-                senpaSecurity.UserActionResponse response = security.AddUser(txtUsername.Text, password, cmbRoleGroups.Text, txtName.Text, txtSurname.Text, txtEmail.Text, txtMobile.Text, chkPasswordExpires.Checked, chkActive.Checked, chkLocked.Checked);
-                if (response.actionStatus)
+                ShowErrorMessage("Please enter all main fields");
+                return;
+            }
+
+            if(!chkDefaultPassword.Checked && (txtPassword.Text!=txtConfirm.Text))
+            {
+                ShowErrorMessage("Password mismatch");
+                return;
+            }
+            try
+            {
+                SBFAApi agent = new SBFAApi();
+                using (new OperationContextScope(agent.context))
                 {
-                    txtName.Text = "";
-                    txtSurname.Text = "";
-                    txtUsername.Text = "";
-                    txtEmail.Text = "";
-                    txtMobile.Text = "";
-                    txtPassword.Text = "";
-                }
-                else
-                {
-                    MessageBox.Show(response.responseMessage);
+                    string password = "";
+                    if (chkDefaultPassword.Checked)
+                        password = agent.operation.DefaultPassword();
+                    else
+                        password = txtPassword.Text;
+                    sbfa.UserActionResponse response = agent.operation.AddUser(txtUsername.Text, password, Globals.GetComboBoxValue(cmbStakeholder), cmbRoleGroups.Text, txtName.Text, txtSurname.Text, txtEmail.Text, txtMobile.Text, chkPasswordExpires.Checked, chkActive.Checked, chkLocked.Checked);
+                    if (response.actionStatus)
+                    {
+                        txtName.Text = "";
+                        txtSurname.Text = "";
+                        txtUsername.Text = "";
+                        txtEmail.Text = "";
+                        txtMobile.Text = "";
+                        txtPassword.Text = "";
+                    }
+                    else
+                    {
+                        ShowErrorMessage(response.responseMessage);
+                    }
                 }
             }
+            catch
+            {
+                ShowErrorMessage("There has been an error saving user");
+            }
+        }
+
+        private void txtName_TextChanged_1(object sender, EventArgs e)
+        {
+            if (chkAutoUsername.Checked && txtName.Text.Length > 0)
+                txtUsername.Text = (txtName.Text.Substring(0, 1) + txtSurname.Text).ToLower();
+        }
+
+        private void txtSurname_TextChanged_1(object sender, EventArgs e)
+        {
+            if (chkAutoUsername.Checked && txtName.Text.Length > 0)
+                txtUsername.Text = (txtName.Text.Substring(0, 1) + txtSurname.Text).ToLower();
+        }
+
+        public void ShowSuccessMessage(string message)
+        {
+            FlyoutAction action = new FlyoutAction() { Caption = "Success!", Description = message };
+
+            FlyoutCommand command1 = new FlyoutCommand() { Text = "OK", Result = System.Windows.Forms.DialogResult.Yes };
+            action.Commands.Add(command1);
+
+            FlyoutProperties properties = new FlyoutProperties();
+            properties.ButtonSize = new Size(100, 40);
+            properties.Style = FlyoutStyle.MessageBox;
+            properties.Appearance.BackColor = Color.Green;
+            properties.Appearance.ForeColor = Color.White;
+            DevExpress.XtraBars.Docking2010.Customization.FlyoutDialog.Show(this, action, properties);
+            if (DevExpress.XtraBars.Docking2010.Customization.FlyoutDialog.Show(this, action, properties) == DialogResult.Yes)
+            {
+                this.Close();
+            }
+        }
+
+        public void ShowErrorMessage(string message)
+        {
+            FlyoutAction action = new FlyoutAction() { Caption = "User!", Description = message };
+
+            FlyoutCommand command1 = new FlyoutCommand() { Text = "OK", Result = System.Windows.Forms.DialogResult.Yes };
+            action.Commands.Add(command1);
+
+            FlyoutProperties properties = new FlyoutProperties();
+            properties.ButtonSize = new Size(100, 40);
+            properties.Style = FlyoutStyle.MessageBox;
+            properties.Appearance.BackColor = Color.Red;
+            properties.Appearance.ForeColor = Color.White;
+            DevExpress.XtraBars.Docking2010.Customization.FlyoutDialog.Show(this, action, properties);
         }
     }
 }
